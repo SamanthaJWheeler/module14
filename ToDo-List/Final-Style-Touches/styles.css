@@ -12,6 +12,14 @@ code {
     monospace;
 }
 
+h1 {
+  border: 2px solid powderblue;
+  padding: 20px;
+  text-align: center;
+  color: rgb(214, 122, 127);
+  font-family: serif;
+}
+
 .app {
   background: #209cee;
   padding: 30px;
